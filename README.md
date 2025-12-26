@@ -48,6 +48,8 @@ I tested two different hooks to see what worked best:
 ### **Winning Ad Copy ✍️**
 *The "Calming" angle performed 40% better. Here is the copy I used:*
 
+"I A/B tested 5 different variations. The following copy had the highest Click-Through-Rate (CTR) because it tapped into the owner's emotion:"
+
 > **Headline:** 🌿 The "Magic Spray" That Calms Anxiety & Neutralizes Odors.
 >
 > **Primary Text:**
@@ -67,7 +69,6 @@ I tested two different hooks to see what worked best:
 ## 4. The Results 📈
 After 30 days of optimization and scaling the winning "Calming" creative:
 
-"I A/B tested 5 different variations. The following copy had the highest Click-Through-Rate (CTR) because it tapped into the owner's emotion:"
 
 | Metric | Result |
 | :--- | :--- |
