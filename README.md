@@ -110,7 +110,8 @@ Because we targeted high-intent searches, the conversion rate was higher than Fa
 
 This campaign proved that while Facebook creates the want, Google captures the sale.
 
-![Google Ads Results](https://github.com/user-attachments/assets/0f902c7a-eb8f-4b11-aa32-4ea15a61601f)
+![Google Ads Results](https://github.com/user-attachments/assets/45456f99-1772-4836-b536-ffddba161e64)
+
 
 
 
