@@ -112,3 +112,39 @@ This campaign proved that while Facebook creates the want, Google captures the s
 ![Google Ads Results](https://github.com/user-attachments/assets/fe1dc934-4a95-4345-bc86-268630ec1052)
 
 
+---
+
+# Project 3: Premium Cat Food Scaling (ACANA Indoor Entrée)
+
+**Objective:**
+Selling premium pet food is tricky because it's more expensive than supermarket brands. My goal was not just to get a one-time sale, but to acquire a loyal customer who would buy this food every month. We used a "Hybrid Strategy" combining Facebook for awareness and Google for sales.
+
+**The Challenge:**
+Most cat owners buy cheap generic food. We needed to educate them on *why* ACANA (Chicken, Turkey & Rabbit) is worth the extra money. Specifically, we had to target "Indoor Cats" who struggle with weight gain and hairballs.
+
+**My Meta Ads Strategy (The "Health" Angle):**
+On Facebook and Instagram, I didn't just show the bag of food. I focused on the problem: "Is your indoor cat gaining too much weight?"
+* **Visuals:** I used scroll-stopping videos showing active, healthy cats versus lethargic ones.
+* **The Hook:** "Your indoor cat needs a special diet." This called out the specific audience immediately.
+* **Targeting:** I went after specific interests like "Jackson Galaxy" (Cat behaviorist) and "Raw feeding," as these people care deeply about nutrition.
+
+**My Google Ads Strategy (Shopping & Search):**
+For Google, I used **Google Shopping Ads** so people could see the product image and price before clicking.
+* **Keywords:** I targeted high-intent terms like "best dry food for indoor cats" and "grain-free cat food for weight control."
+* **Brand Bidding:** I also bid on the brand name "Acana" to protect our traffic from competitors trying to steal our customers.
+
+**The Results (High LTV):**
+The magic of this campaign was the recurring purchases.
+* **ROAS:** 3.8x on the front end.
+* **Customer Retention:** 40% of buyers returned for a second bag within 45 days.
+* **Cost Per Acquisition:** Stabilized at $12, which was profitable because each customer buys $500+ worth of food per year.
+
+This project showed that for premium products, educating the customer on "Ingredients" (Rabbit, Herring) works better than just offering a discount.
+
+![ACANA Cat Food](https://github.com/user-attachments/assets/8da84c06-96ca-40cc-ab46-b5a93d954dbc)
+
+![Uploading acana googleads.jpg…]()
+
+
+
+
