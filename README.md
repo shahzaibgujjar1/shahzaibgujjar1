@@ -84,3 +84,31 @@ By shifting the focus from just "smell" to "wellness & calming," we tapped into 
 
 ![dogadsresult](https://github.com/user-attachments/assets/7c43e051-546d-4338-9369-8048a7a78ae4)
 
+
+---
+
+# Project 2: Google Search Ads (Capturing the Demand)
+
+**Objective:**
+While Facebook Ads were great for creating awareness, I needed to capture the people who were actively searching for a solution on Google. These are the "hot leads" ready to buy.
+
+**My Approach & Strategy:**
+Instead of bidding on generic and expensive keywords like "dog perfume," I focused on the actual problem. I targeted specific phrases like "stop wet dog smell" and "safe dog deodorant spray." This ensured that my ad only appeared when someone was genuinely looking for help, not just browsing pictures of dogs.
+
+**Money Saving Move (Negative Keywords):**
+To make sure the client's budget wasn't wasted, I immediately blocked keywords like "homemade," "DIY," "recipe," and "cheap." I didn't want clicks from people looking for free solutions. I only wanted people with credit cards in hand.
+
+**The Ad Copy:**
+For the headlines, I didn't just list features. I asked questions that the user was thinking, like "Can't get rid of that wet dog smell?" followed by our solution "100% Natural Lavender Spray." This direct relevance is why our Quality Score stayed high (9/10), which made our clicks cheaper than the competitors.
+
+**The Results:**
+Because we targeted high-intent searches, the conversion rate was higher than Facebook.
+* **ROAS (Return on Ad Spend):** 5.1x
+* **Conversion Rate:** 6.8%
+* **Cost Per Click (CPC):** Reduced by 30% due to high Quality Score.
+
+This campaign proved that while Facebook creates the want, Google captures the sale.
+
+![Google Ads Results](https://github.com/user-attachments/assets/fe1dc934-4a95-4345-bc86-268630ec1052)
+
+
